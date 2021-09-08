@@ -1,0 +1,16 @@
+.button {
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 8px;
+    background-color: #f3cf24;
+    border: none;
+    font-weight: 900;
+}
+
+.logout {
+    color: red;
+}
+
+.login {
+    color: green;
+}
